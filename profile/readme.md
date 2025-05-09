@@ -2,7 +2,7 @@
 
 ## Sonya Topluluğu Hakkında
 
-Sonya Topluluğu, toplumsal sorunlara sürdürülebilir ve alternatif çözümler geliştirmek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmek amacıyla kurulmuş bir sivil toplum kuruluşudur.
+Sonya Topluluğu, toplumsal sorunlara sürdürülebilir ve alternatif çözümler geliştirmek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmek amacıyla birleşen bir topluluktur.
 
 ### Odak Alanlarımız
 
