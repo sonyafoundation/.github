@@ -47,7 +47,7 @@ Topluluğumuza katılmak için:
 
 ## İletişim
 
-- E-posta: hr.sonyafoundation@gmail.com
+- E-posta: sonya.foundation@protonmail.com
 - GitHub: [https://github.com/sonyafoundation](https://github.com/sonyafoundation)
 
 ---
