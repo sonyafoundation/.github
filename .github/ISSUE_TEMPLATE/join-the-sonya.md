@@ -20,6 +20,9 @@ assignees:  ozenfurkan
 
 - [ ] **Gönüllülük Taahhütnamesi'ni** okudum, anladım ve kabul ediyorum. Sonya Topluluğu'nun bir gönüllüsü olarak taahhütnamede belirtilen ilke ve kurallara uyacağımı beyan ederim. ([Metni okumak için tıklayın](../../docs/VOLUNTEER_COMMITMENT.md))
 
+- [ ] **Sonya'nın Element Matrix** kanalında, ekibimin grubuna katıldım. ([Sonya Matrix Kanalı](https://matrix.to/#/#sonya:matrix.org))
+
+
 ---
 
 > Not: Katılım talebiniz incelendikten sonra sizinle iletişime geçilecektir. Sonya Topluluğu'na gösterdiğiniz ilgi için teşekkür ederiz!
