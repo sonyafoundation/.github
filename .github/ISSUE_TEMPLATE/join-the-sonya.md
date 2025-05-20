@@ -3,7 +3,7 @@ name: Topluluk Katılım Talebi
 about: Sonya Topluluğu'na katılmak için bu şablonu kullanın
 title: 'Topluluk katılım talebi'
 labels: Request
-assignees: nukIeer, sonyagit
+assignees:  ozenfurkan
 ---
 
 # Sonya Topluluğu'na Katılım Talebi
